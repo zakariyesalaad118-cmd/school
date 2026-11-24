@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS SCHOOL OS",
+  "description": "One School. One Intelligence. One Connected Future. Bilingual School Management Operating System for Somali Primary and Secondary School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
